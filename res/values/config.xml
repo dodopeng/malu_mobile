@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="serverurl">http://25.30.5.163:8080/update.json</string>
+</resources>
